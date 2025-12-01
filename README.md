@@ -13,14 +13,6 @@ I’m a student and programmer passionate about **C programming** and **Linux sy
 
 ---
 
-## 💻 GitHub Stats
-
-![Arsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aadarsh-Tyagi&show_icons=true&theme=radical)  
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aadarsh-Tyagi&layout=compact&theme=radical)  
-
----
-
 ## 🛠️ Skills
 
 - **Programming Languages:** C  
@@ -29,19 +21,10 @@ I’m a student and programmer passionate about **C programming** and **Linux sy
 
 ---
 
-## 📂 Projects
-
-- [Project 1](link) - Basic-C  
-- [Project 2](link) - C-Prcactice  
-
----
-
 ## 🌱 Currently Learning
 
 - Advanced C concepts  
 - Shell scripting & Linux utilities  
-- Open source contributions  
-
 ---
 
 ## 🎯 Fun Fact
