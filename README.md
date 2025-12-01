@@ -7,17 +7,17 @@ I’m a student and programmer passionate about **C programming** and **Linux sy
 
 ## 🔗 Connect with me
 
-[![Instagram](https://img.shields.io/badge/Instagram-@your_instagram-purple?style=for-the-badge&logo=instagram)](https://instagram.com/your_instagram)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Arsh-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your_linkedin)  
-[![GitHub](https://img.shields.io/badge/GitHub-Arsh-black?style=for-the-badge&logo=github)](https://github.com/your_github_username)  
+[![Instagram](https://img.shields.io/badge/Instagram-@your_instagram-purple?style=for-the-badge&logo=instagram)](https://instagram.com/o.o_arsh_o.o)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Arsh-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/aadarsh-tyagi-243b36380)  
+[![GitHub](https://img.shields.io/badge/GitHub-Arsh-black?style=for-the-badge&logo=github)](https://github.com/Aadarsh-Tyagi)  
 
 ---
 
 ## 💻 GitHub Stats
 
-![Arsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=your_github_username&show_icons=true&theme=radical)  
+![Arsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aadarsh-Tyagi&show_icons=true&theme=radical)  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your_github_username&layout=compact&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aadarsh-Tyagi&layout=compact&theme=radical)  
 
 ---
 
@@ -31,8 +31,8 @@ I’m a student and programmer passionate about **C programming** and **Linux sy
 
 ## 📂 Projects
 
-- [Project 1](link) - Example C project  
-- [Project 2](link) - Example Linux script/project  
+- [Project 1](link) - Basic-C  
+- [Project 2](link) - C-Prcactice  
 
 ---
 
