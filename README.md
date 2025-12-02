@@ -30,3 +30,5 @@ I’m a student and programmer passionate about **C programming** and **Linux sy
 ## 🎯 Fun Fact
 
 I love exploring Linux commands and writing efficient C programs! 🖥️🐧
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Aadarsh-Tyagi](https://github.com/anuraghazra/github-readme-stats)
